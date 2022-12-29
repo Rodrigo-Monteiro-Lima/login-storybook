@@ -1,6 +1,5 @@
-import { useState } from '@storybook/addons';
 import { Envelope, Lock } from 'phosphor-react';
-import { FormEvent } from 'react';
+import { FormEvent, useState } from 'react';
 import { Button } from '../components/Button';
 import { Checkbox } from '../components/Checkbox';
 import { Heading } from '../components/Heading';
